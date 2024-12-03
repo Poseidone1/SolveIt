@@ -10,7 +10,7 @@ It's based on 4 steps methodology based on the [How to Solve It](https://press.p
     - Restate the problem in your own words
     - Create visual representations where helpful
     - Verify you have sufficient information
-## Create an action plan
+## Step2: Create an action plan
     - Search for patterns
     - Draw on similar problems you've solved
     - Break down complex problems into manageable parts
@@ -19,14 +19,14 @@ It's based on 4 steps methodology based on the [How to Solve It](https://press.p
     - List possible strategies
     - Identify available tools and resources
 
-## Implement the plan
+## Step3: Implement the plan
     - Execute your strategy systematically
     - Verify each step
     - Document your attempts
     - Be prepared to start over with a new approach if needed
     - Maintain organized records of your process
 
-## Review the problem aka lesson learnt
+## Step4: Review the problem aka lesson learnt
    - Evaluate the reasonableness of your solution
    - Verify your results
    - Consider alternative approaches
